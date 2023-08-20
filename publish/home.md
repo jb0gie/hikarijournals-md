@@ -43,6 +43,7 @@ dConnect()
 ```
 
 ## all the secrets are within the [library](https://libraryofbabel.info/)
+	be very careful what you ask for..
 ### most of the answers reside just outside the library waiting to simply be found.
 
 ![](https://cdn.discordapp.com/attachments/1081903251584200714/1142384660077363240/image0.png)
