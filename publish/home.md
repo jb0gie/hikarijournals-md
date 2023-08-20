@@ -1,5 +1,5 @@
 ---
-title: "hikarijournals"
+title: "all it takes is onethrethreeseven"
 excerpt: "hikarilabs is a subsect of WWW"
 ---
 ```js
@@ -48,7 +48,10 @@ dConnect()
 ![](https://cdn.discordapp.com/attachments/1081903251584200714/1142384660077363240/image0.png)
 > prompted by @[howieduhzit](https://howieduhzit.best)
 
-# [[@WWW]] 
+# The [[origins]] of WWW
+
+# [[about]] the journalist 
+
 
 
 
