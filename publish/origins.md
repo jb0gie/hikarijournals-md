@@ -1,6 +1,7 @@
 ---
-title : @WWW-origins
-excerpt : where did @WWW come from?.....
+title : WWW-origins
+excerpt : where did WWW come from?.....
+date : now
 ---
 In the vast expanse of the digital realm, there existed a group of brilliant individuals who sought to reshape the very fabric of virtual reality.
 
